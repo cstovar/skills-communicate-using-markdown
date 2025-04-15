@@ -14,3 +14,7 @@
 #### In the cold November rain
 
 This is the first commit to this file, adding the lyrics of a song by Guns N Roses
+
+![Image of cover album](https://github.com/cstovar/skills-communicate-using-markdown/blob/main/GnR--UseYourIllusion1.jpg)
+
+
