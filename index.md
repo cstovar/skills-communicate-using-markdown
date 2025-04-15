@@ -22,3 +22,7 @@ This is the first commit to this file, adding the lyrics of a song by Guns N Ros
 const a = Math.random();
 console.log(a);
 ```
+- [ ] Learn about Docker
+- [ ] Read about RestAPI introduction
+- [ ] Watch Ex Machina for Articial Intelingence Techniques subject
+
